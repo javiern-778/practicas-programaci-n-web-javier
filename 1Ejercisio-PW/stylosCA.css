@@ -1,0 +1,28 @@
+        table {    
+            width: 100%; /*Ancho de la tabla ajustado*/
+            margin: 0% auto; /*Centrar la tabla horizontalmente*/
+        }
+        table,th, td{
+            /* cambio de color de los bordes */
+            border: 1px solid rgb(7, 7, 7);
+            border-collapse:collapse;  
+        }
+        td{
+            /* tamaño del cuadro */
+            font-size: 90%;
+        }
+        th,td {
+            /* color de fondo */
+            padding: 10px;
+            background-color: rgb(157, 250, 9);
+        }
+        th{
+            /* color de texto */
+            text-align: left;
+            background-color:rgb(29, 218, 23);
+        } 
+        h1{
+            text-align: center;
+        }  
+
+        
